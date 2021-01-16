@@ -12,7 +12,8 @@ public class Program {
 		Locale.setDefault(Locale.US);
 		Scanner sc = new Scanner(System.in);
 		
-		Triangle x, y;		
+		Triangle x;
+		Triangle y;
 		x = new Triangle();
 		y = new Triangle();
 		
