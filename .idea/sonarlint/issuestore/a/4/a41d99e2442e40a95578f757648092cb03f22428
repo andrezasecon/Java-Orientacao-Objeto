@@ -1,0 +1,19 @@
+
+J
+java:S1481!"(Remove this unused "qtd" local variable.(ğ³ ¦øÿÿÿÿ8ğ“·ñ.
+S	java:S106%"9Replace this use of System.out or System.err by a logger.(£ÏÛùÿÿÿÿ
+S	java:S106("9Replace this use of System.out or System.err by a logger.(ÙòÈÚùÿÿÿÿ
+S	java:S106&"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+S	java:S106,"9Replace this use of System.out or System.err by a logger.(£ÏÛùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ôç¢×
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¤š ‡
+N	java:S106"9Replace this use of System.out or System.err by a logger.(³Àìî
+S	java:S106$"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+S	java:S106+"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ïèª½úÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+S	java:S106 "9Replace this use of System.out or System.err by a logger.(µº·†úÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(õ‹ƒ
+Y
+java:S1854!"7Remove this useless assignment to local variable "qtd".(ğ³ ¦øÿÿÿÿ8ğ“·ñ.

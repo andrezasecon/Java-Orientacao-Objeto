@@ -1,0 +1,9 @@
+
+D
+java:S1444")Make this "public static IOF" field final(Ô¢åüÿÿÿÿ
+j
+java:S1104"OMake IOF a static final constant or non-public and provide accessors if needed.(Ô¢åüÿÿÿÿ
+i
+java:S3008"NRename this field "IOF" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ô¢åüÿÿÿÿ
+U
+java:S1118":Add a private constructor to hide the implicit public one.(Ê‹Ôšúÿÿÿÿ

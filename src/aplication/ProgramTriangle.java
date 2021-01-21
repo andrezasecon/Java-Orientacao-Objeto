@@ -3,6 +3,7 @@ package aplication;
 import java.util.Locale;
 import java.util.Scanner;
 
+import entities.Product;
 import entities.Triangle;
 
 public class ProgramTriangle {
